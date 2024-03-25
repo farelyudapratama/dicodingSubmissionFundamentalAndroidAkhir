@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.GitHubUserApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">@font/nunito_regular</item>
+        <item name="android:statusBarColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="Theme.GitHubUserApp" parent="Base.Theme.GitHubUserApp" />
+    <style name="colorBackground"><item name="backgroundTint">#E9ECF1</item></style>
+
+    <style name="icon"><item name="android:fillColor">#E9ECF1</item></style>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GitHubUserApp</string>
+    <string name="tab_1">%d Followers</string>
+    <string name="tab_2">%d Following</string>
+    <string name="search">Search username</string>
+    <string name="gists">Gists</string>
+    <string name="repository">Repository</string>
+    <string name="username_not_found">username not found</string>
+    <string name="user_not_follow">User is not %s</string>
+    <string name="favorite">favorite</string>
+    <string name="dark_mode">Change theme</string>
+</resources>
